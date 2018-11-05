@@ -15,9 +15,9 @@ You can either use the ready-to-print 150dpi pdf, or modify the odg (with [Libre
 - A small map to show its relative position
 - Some basic info (in Italian and German, at the moment)
 
-## A sample page:
+## These are the cards:
 
-![Sample page](SolarSystemModel_sheets_IT_DE.jpg)
+![Sample page](base_images/SolarSystemModel_cards_shuffle.jpg)
 
 Data from: [Exploratorium](http://www.exploratorium.edu/ronh/solar_system/)
 
