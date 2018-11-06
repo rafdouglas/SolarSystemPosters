@@ -17,7 +17,7 @@ You can either use the ready-to-print 150dpi pdf, or modify the odg (with [Libre
 
 ## These are the cards:
 
-![Sample page](base_images/SolarSystemModel_cards_shuffle.jpg)
+![Sample page](artwork/SolarSystemPosters_cards_shuffle.jpg)
 
 Data from: [Exploratorium](http://www.exploratorium.edu/ronh/solar_system/)
 
